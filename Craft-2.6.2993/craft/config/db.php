@@ -25,3 +25,21 @@ return array(
 	'tablePrefix' => 'craft',
 
 );
+//
+// return array(
+//     '*' => array(
+//         'tablePrefix' => 'craft',
+//     ),
+//     '.test' => array(
+//         'server' => 'localhost',
+//         'user' => 'root',
+//         'password' => 'letmein',
+//         'database' => 'buildwithcraft',
+//     ),
+//     '.com' => array(
+//         'server' => 'localhost',
+//         'user' => 'av12345',
+//         'password' => '$uP3r$3jp3t',
+//         'database' => 'av12345-buildwithcraft',
+//     ),
+// );
